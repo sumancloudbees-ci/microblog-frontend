@@ -7157,9 +7157,9 @@ minimatch@^3.0.2, minimatch@^3.0.4:
     brace-expansion "^1.1.7"
 
 minimist@^1.1.1, minimist@^1.2.0, minimist@^1.2.5:
-  version "1.2.5"
-  resolved "https://registry.yarnpkg.com/minimist/-/minimist-1.2.5.tgz#67d66014b66a6a8aaa0c083c5fd58df4e4e97602"
-  integrity sha512-FM9nNUYrRBAELZQT3xeZQ7fmMOBg6nWNmJKTcgsJeaLstP/UODVpGsr5OhXhhXg6f+qtJ8uiZ+PUxkDWcgIXLw==
+  version "1.2.6"
+  resolved "https://registry.yarnpkg.com/minimist/-/minimist-1.2.6.tgz#8637a5b759ea0d6e98702cfb3a9283323c93af44"
+  integrity sha512-Jsjnk4bw3YJqYzbdyBiNsPWHPfO++UGG749Cxs6peCu5Xg4nrena6OVxOYxrQTqww0Jmwt+Ref8rggumkTLz9Q==
 
 minipass-collect@^1.0.2:
   version "1.0.2"
@@ -8981,6 +8981,11 @@ ripemd160@^2.0.0, ripemd160@^2.0.1:
   dependencies:
     hash-base "^3.0.0"
     inherits "^2.0.1"
+
+rox-browser@^4.9.16:
+  version "4.9.18"
+  resolved "https://registry.yarnpkg.com/rox-browser/-/rox-browser-4.9.18.tgz#34a924701440b00ea0c13359a30e2aaad36ffe05"
+  integrity sha512-uZv7oMV7eYWwqODTNWPfSmromU2IhOqIAgnrLElMkSPERK9iHvEhFkYrksZoj+WWV1ffAnHjpWUQdO8EFzwIbg==
 
 rsvp@^4.8.4:
   version "4.8.5"
